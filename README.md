@@ -60,7 +60,7 @@ pacman-java/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/dishu4u/The-Pacman-Game.git
+git clone https://github.com/prakash-varma/The-Pacman-Game.git
 ```
 
 2. Open the project in your Java IDE
