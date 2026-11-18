@@ -65,7 +65,12 @@ git clone https://github.com/prakash-varma/The-Pacman-Game.git
 
 2. Open the project in your Java IDE
 
-3. Compile and run the game
+3. Compile and run the App.java
+```bash
+javac App.java
+java App.java
+```
+4. Then the you can the game window
 
 ---
 
